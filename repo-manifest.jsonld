@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/omnilib/aiosqlite/commit/9b127cecc7de843bf4f343b6da63b641866533fb",
       "git:hexsha": "9b127cecc7de843bf4f343b6da63b641866533fb",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.22.1"
     },
     {
