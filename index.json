@@ -1,0 +1,11 @@
+{
+  "org": "omnilib",
+  "repo": "aiosqlite",
+  "versions": [
+    {
+      "commit": "9b127cecc7de843bf4f343b6da63b641866533fb",
+      "tag": "v0.22.1",
+      "parsed_at": "2026-10-17T21:47:34.403421+00:00"
+    }
+  ]
+}
